@@ -14,15 +14,15 @@ Our summer project is MataDrone, a defense drone with the sole purpose of achiev
 MataDrone’s role in defense is vital to the safety of our students, community, and military personnel from potential threats.
 
 Tasks for Summer 2022 for Project Shield:
-**1. Estimated Time: 2 - 3 Weeks
+**1. Estimated Time: 2 - 3 Weeks**
 * Design Mata Drone
 * 3D Print
 * Build
 * Achieve Aircraft Movement, such as wings with the yaw, pitch, and roll capabilities.
-**2. Estimated Time: 2-4 Weeks
+**2. Estimated Time: 2-4 Weeks**
 * Achieve Lift Off
 * Achieve Flight Stability
 * Collect Data for Further Improvements
-**3. Estimated Time: 3 - 9 Weeks
+**3. Estimated Time: 3 - 9 Weeks**
 * Achieve Threat Detection
 * Achieve Locking Mechanism
