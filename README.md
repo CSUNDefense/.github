@@ -20,7 +20,7 @@ Tasks for Summer 2022 for Project Shield:
 * 3D Print
 * Build
 * Achieve Aircraft Movement, such as wings with the yaw, pitch, and roll capabilities.
-* ---
+---
 **2. Estimated Time: 2-4 Weeks**
 * Achieve Lift Off
 * Achieve Flight Stability
