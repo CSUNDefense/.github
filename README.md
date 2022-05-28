@@ -14,6 +14,7 @@ Our summer project is MataDrone, a defense drone with the sole purpose of achiev
 MataDrone’s role in defense is vital to the safety of our students, community, and military personnel from potential threats.
 ---
 Tasks for Summer 2022 for Project Shield:
+---
 **1. Estimated Time: 2 - 3 Weeks**
 * Design Mata Drone
 * 3D Print
