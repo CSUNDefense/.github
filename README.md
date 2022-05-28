@@ -7,7 +7,7 @@ Within the four sectors, CSUN Defense hopes to design and build autonamous drone
 
 ## Our First Project:
 ### Summer 2022 / MataDrone
-![CSUN Defense](/imgs/firstDesign.png)
+![CSUN Defense](/imgs/johnDrone.png)
 
 ### Project Shield:
 Our summer project is MataDrone, a defense drone with the sole purpose of achieving surveillance and threat detection from ground to air spaces.
